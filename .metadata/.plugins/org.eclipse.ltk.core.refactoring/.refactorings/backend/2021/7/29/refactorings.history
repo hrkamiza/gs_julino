@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;backend&apos;&#x0A;- Original project: &apos;backend&apos;&#x0A;- Original elements:&#x0A;     backend/src/main/java/xyz.hrkamiza.gsjulino.xyz&#x0A;     backend/src/main/java/xyz.hrkamiza.gsjulino.xyz.hrkamiza.gsjulino" description="Delete elements" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;xyz.hrkamiza.gsjulino.xyz.hrkamiza.gsjulino" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;xyz.hrkamiza.gsjulino.xyz.hrkamiza" element3="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;xyz.hrkamiza.gsjulino.xyz" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1625972527548" subPackages="false" version="1.0"/>
+</session>
